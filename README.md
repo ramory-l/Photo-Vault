@@ -1,6 +1,6 @@
-# Storm Viewer
+# Photo Vault
 
-You can browse cool storm photos with this app.
+You can store your photos in this app.
 
 ## Built With
 
